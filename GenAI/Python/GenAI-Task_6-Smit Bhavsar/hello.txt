@@ -1,0 +1,3 @@
+Hi my name is smit
+I am learning GeN-AI course
+Working On try-exception Assignment
