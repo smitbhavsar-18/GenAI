@@ -1,6 +1,3 @@
-# Ignore nested workspace repository
-GenAI/GenAI/
-
 # Ignore generated Python cache files anywhere in the repository
 **/__pycache__/
 **/*.py[cod]
